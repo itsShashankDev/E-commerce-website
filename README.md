@@ -1,9 +1,10 @@
 # e-commerce-store
  Reach the website here - https://e-commerce-fronend.vercel.app/
 
-![Screenshot (7)]
-![Screenshot (8)]
-![Screenshot (9)]
+![Screenshot (7)](https://user-images.githubusercontent.com/100435430/200992424-ba4d1c9f-c0fa-498f-a6e0-ad50f619d2d4.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/100435430/200992439-33d18812-e69f-4f60-b6e1-c9043408d5bd.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/100435430/200992460-34e17895-1cc0-47e9-b3c7-71b190da1273.png)
+
 
  ## Technology Which I Used
    ***Backend***
