@@ -1,7 +1,9 @@
 # e-commerce-store
  Reach the website here - https://e-commerce-fronend.vercel.app/
 
-
+![Screenshot (7)]
+![Screenshot (8)]
+![Screenshot (9)]
 
  ## Technology Which I Used
    ***Backend***
