@@ -9,7 +9,7 @@
     "data:import": "node backend/seederScript"
   },
   "keywords": [],
-  "author": "Mohit Sojitra",
+  "author": "Shashank",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
