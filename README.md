@@ -1,6 +1,6 @@
 # e-commerce-store
  Reach the website here - https://e-commerce-fronend.vercel.app/
-## 1. The frontend part of my project, The products can be seen here where the user can buy according to thier choices.
+## 1. The frontend part of my project, The products can be seen here where the user can buy according to thier choices
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/100435430/200992424-ba4d1c9f-c0fa-498f-a6e0-ad50f619d2d4.png)
 
