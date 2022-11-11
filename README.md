@@ -1,26 +1,26 @@
 # e-commerce-store
  Reach the website here - https://e-commerce-fronend.vercel.app/
-1. The frontend part of my project, The products can be seen here where the user can buy according to thier choices.
+## 1. The frontend part of my project, The products can be seen here where the user can buy according to thier choices.
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/100435430/200992424-ba4d1c9f-c0fa-498f-a6e0-ad50f619d2d4.png)
 
-2.This is the Login page for the already registered users
+## 2.This is the Login page for the already registered users
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/100435430/200992439-33d18812-e69f-4f60-b6e1-c9043408d5bd.png)
 
-3.Registration page for new users
+## 3.Registration page for new users
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/100435430/201378049-7c4f4a30-f306-4135-8875-3f6f99dd4c27.png)
 
-4.Buy product like this
+## 4.Buy product like this
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/100435430/200992460-34e17895-1cc0-47e9-b3c7-71b190da1273.png)
 
-5.Confirming the product user wants to buy
+## 5.Confirming the product user wants to buy
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/100435430/201379056-77ea6c5c-cc17-467a-a830-49fca80bda58.png)
 
-6.Checkout page
+## 6.Checkout page
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/100435430/201379505-28485cd9-286b-4b51-8846-16de066f2001.png)
 
